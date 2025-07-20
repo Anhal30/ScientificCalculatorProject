@@ -139,7 +139,7 @@ public class ScientificCalculator {
     public static double power(double base, double exponent) {
         return Math.pow(base, exponent);
     }
-
+    // 🧮 Created by Anhal - sin function
     public static double sin(double a) {
         return Math.sin(Math.toRadians(a));
     }
