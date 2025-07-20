@@ -143,7 +143,7 @@ public class ScientificCalculator {
     public static double sin(double a) {
         return Math.sin(Math.toRadians(a));
     }
-
+    // 🧮 Created by Anhal - cos function
     public static double cos(double a) {
         return Math.cos(Math.toRadians(a));
     }
