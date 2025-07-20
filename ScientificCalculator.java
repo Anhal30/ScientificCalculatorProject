@@ -130,10 +130,11 @@ public class ScientificCalculator {
         return a / b;
     }
 
-    // 🖊️ Created by Anhal Nasser - Scientific functions
-    public static double squareRoot(double a) {
-        return Math.sqrt(a);
-    }
+    // 🧮 Created by Anhal - square root function
+    public static double squareRoot(double number) {
+    return Math.sqrt(number);
+}
+
 
     public static double power(double base, double exponent) {
         return Math.pow(base, exponent);
