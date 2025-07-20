@@ -147,7 +147,7 @@ public class ScientificCalculator {
     public static double cos(double a) {
         return Math.cos(Math.toRadians(a));
     }
-
+    // 🧮 Created by Anhal - ten function
     public static double tan(double a) {
         return Math.tan(Math.toRadians(a));
     }
