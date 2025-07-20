@@ -167,7 +167,7 @@ public class ScientificCalculator {
     public static double ceil(double a) {
         return Math.ceil(a);
     }
-
+    // 🧮 Created by Anhal - abs function
     public static double floor(double a) {
         return Math.floor(a);
     }
