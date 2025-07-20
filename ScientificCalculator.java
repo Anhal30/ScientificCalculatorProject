@@ -159,7 +159,7 @@ public class ScientificCalculator {
     public static double ln(double a) {
         return Math.log(a);
     }
-   
+    // 🧮 Created by Anhal - abs function
     public static double abs(double a) {
         return Math.abs(a);
     }
