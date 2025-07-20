@@ -151,7 +151,7 @@ public class ScientificCalculator {
     public static double tan(double a) {
         return Math.tan(Math.toRadians(a));
     }
-
+    // 🧮 Created by Anhal - log10 function
     public static double log10(double a) {
         return Math.log10(a);
     }
